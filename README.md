@@ -1,3 +1,5 @@
+![Screenshot_6](https://github.com/user-attachments/assets/535fc71b-04c3-4bae-b575-0ace1af136a0)
+
 # 🌐 DockTor
 
 > Expose local apps to the Tor network via Docker.
